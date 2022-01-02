@@ -2,12 +2,10 @@
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<a href="https://twitter.com/MichaelSlayer2">
+<a href="https://twitter.com/xMichaelRo">
   <img align="left" alt="xMichaelRod | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/xMichaelRodriguez">
-  <img align="left" alt="Michael Rodriguez" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <br />
 
 
