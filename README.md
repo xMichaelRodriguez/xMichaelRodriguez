@@ -29,7 +29,7 @@ Hi, i'm [Michael Rodriguez](https://www.instagram.com/xmichaelrodriguez/?hl=es-l
 
  ### Portfolio
 
-> *pending...*
+> *[scott-dev](https://scott-dev.netlify.app/)*
  
    <br/>
    <br/>
