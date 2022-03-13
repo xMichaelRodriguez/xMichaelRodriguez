@@ -36,8 +36,8 @@ Hi, i'm [Michael Rodriguez](https://www.instagram.com/xmichaelrodriguez/?hl=es-l
    <br>
    <br>
 
-| <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&hide=stars,issues"   alt="xmichaelrodriguez" /></a> | <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&layout=compact" alt="xmichaelrodriguez" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&hide=stars,issues"   alt="xmichaelrodriguez" /></a>  <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&layout=compact" alt="xmichaelrodriguez" /></a> 
+
   
 
 
