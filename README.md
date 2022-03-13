@@ -1,7 +1,5 @@
-## 👋🏻 Hey there 
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=xmichaelrodriguez.xmichaelrodriguez)
 <a href="https://twitter.com/xMichaelRo">
   <img align="left" alt="xMichaelRod | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,7 +12,7 @@ Hi, i'm [Michael Rodriguez](https://www.instagram.com/xmichaelrodriguez/?hl=es-l
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](scottrodriguez2k@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:scottrodriguez2k@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -28,20 +26,18 @@ Hi, i'm [Michael Rodriguez](https://www.instagram.com/xmichaelrodriguez/?hl=es-l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- 
- 
- 
- 
 
- 
- 
-  <p align="left">
-  &nbsp;
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmichaelrodriguez&show_icons=true&theme=gotham&locale=en" alt="xmichaelrodriguez" />&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmichaelrodriguez&show_icons=true&theme=gotham&locale=en&layout=compact" alt="xmichaelrodriguez" />
-</p>
+ ### Portfolio
 
+> *pending...*
+ 
+   <br>
+   <br>
+   <br>
+   <br>
+
+| <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&hide=stars,issues"   alt="xmichaelrodriguez" /></a> | <a href="https://github.com/xmichaelrodriguez/xmichaelrodriguez"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmichaelrodriguez&show_icons=true&theme=algolia&locale=en&layout=compact" alt="xmichaelrodriguez" /></a> |
+| ------------- | ------------- |
   
 
 
