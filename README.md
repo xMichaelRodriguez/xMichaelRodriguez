@@ -28,15 +28,25 @@ Hi, i'm [Michael Rodriguez](https://www.instagram.com/xmichaelrodriguez/?hl=es-l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ 
+ 
+ 
+ 
+
+ 
+ 
+  <p align="left">
+  &nbsp;
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmichaelrodriguez&show_icons=true&theme=gotham&locale=en" alt="xmichaelrodriguez" />&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmichaelrodriguez&show_icons=true&theme=gotham&locale=en&layout=compact" alt="xmichaelrodriguez" />
+</p>
+
+  
 
 
 
 
-
-
-<!-- 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
 
 
 
