@@ -34,7 +34,6 @@
 
 - **Languages**:
     
-    ![Js](https://img.shields.io/badge/JavaScript-FCD535?style=for-the-badge&logo=javascript&logoColor=white)
     ![Ts](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <!--     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) -->
 
