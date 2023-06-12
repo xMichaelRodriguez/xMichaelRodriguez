@@ -7,10 +7,10 @@
 
 
 
+<p align="center">
+ <a href="https://app.daily.dev/xMichaelrodrigu"><img src="https://api.daily.dev/devcards/5205d65848c2445c9070bc4d26c79fc4.png?r=mwm" width="400" alt="Michael Rodríguez's Dev Card"/></a>
+</p>
 
-<div 
-     style=" text-align-center;"
-     ><a href="https://app.daily.dev/xMichaelrodrigu"><img src="https://api.daily.dev/devcards/5205d65848c2445c9070bc4d26c79fc4.png?r=2si" width="400" alt="Michael Rodríguez's Dev Card"/></a></div>
 
 - A passionate self-taught back-end developer with an interest in front-end development. 
 - Playing Battle Royales at spare time
